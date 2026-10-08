@@ -2,11 +2,13 @@
 
 # 👋 Hi, I'm Toha
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=25\&pause=1000\&color=00F7FF\&center=true\&vCenter=true\&width=600\&lines=Hi%2C+I'm+Toha+%F0%9F%91%8B;CSE+Student+%F0%9F%8E%93;C+%26+Java+Learner+%F0%9F%92%BB;Future+Software+Engineer+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=25\&pause=1000\&color=00F7FF\&center=true\&vCenter=true\&width=700\&lines=CSE+Student+%F0%9F%8E%93;C+%26+Java+Learner+%F0%9F%92%BB;Aspiring+Full+Stack+Developer+%F0%9F%8C%90;Future+Software+Engineer+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 🎓 **Computer Science & Engineering Student**
 
 💻 **C & Java Learner**
+
+🌐 **Aspiring Full Stack Developer**
 
 🚀 **Future Software Engineer**
 
@@ -18,17 +20,18 @@
 
 * 🎓 I'm a CSE student
 * 🌱 Currently learning **C Programming & Java**
+* 🌐 Exploring **Full Stack Web Development**
 * 💡 Interested in Programming & Software Development
 * 🧠 Improving my Problem Solving skills
-* 🚀 Building beginner-friendly projects
+* 🚀 Building projects and learning every day
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Languages & Tools
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,java,html,css,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=c,java,html,css,js,git,github,vscode" />
 
 </p>
 
@@ -40,21 +43,22 @@
 C Programming       █████████░  90%
 Java                ███████░░░  70%
 OOP                 ██████░░░░  60%
+HTML & CSS          ███████░░░  70%
+JavaScript          ████░░░░░░  40%
 Data Structures     ████░░░░░░  40%
-Web Development     ████░░░░░░  40%
+Full Stack          ███░░░░░░░  30%
 ```
 
 ---
 
 ## 🚀 My Projects
 
-🔹 C Programming Practice
-
-🔹 Java OOP Projects
-
-🔹 HTML & CSS Projects
-
-🔹 Beginner Programming Projects
+| Project                   | Technology              |
+| ------------------------- | ----------------------- |
+| 💻 C Programming Practice | C                       |
+| ☕ Java OOP Projects       | Java                    |
+| 🌐 Web Projects           | HTML • CSS • JavaScript |
+| 🎯 Beginner Projects      | C • Java • Web          |
 
 ---
 
@@ -62,38 +66,39 @@ Web Development     ████░░░░░░  40%
 
 <div align="center">
 
-![Toha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdtaharimhossaintoha-ship-it\&show_icons=true\&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=mdtaharimhossaintoha-ship-it&show_icons=true&theme=tokyonight&hide_border=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdtaharimhossaintoha-ship-it\&layout=compact\&theme=tokyonight)
-
-</div>
-
----
-
-## 🐍 My Contribution
-
-<div align="center">
-
-![snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdtaharimhossaintoha-ship-it&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 📫 Connect With Me
+## 🐍 Contribution Journey
 
 <div align="center">
 
-<a href="https://github.com/mdtaharimhossaintoha-ship-it">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
-</a>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+### 🐍 Watch my contributions come alive!
 
 </div>
 
 ---
 
+## 💫 My Coding Journey
+
 <div align="center">
 
-### ⭐ Thanks for visiting my profile! ⭐
+**Learn → Code → Build → Fail → Fix → Repeat 🔁**
 
 </div>
+
+---
+
+## 🎯 2026 Goals
+
+* ✅ Learn C Programming
+* 🔄 Master Java & OOP
+* 🔄 Learn Data Structures
+* 🔄 Build Full Stack Proje
