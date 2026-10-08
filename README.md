@@ -101,4 +101,4 @@ Full Stack          ███░░░░░░░  30%
 * ✅ Learn C Programming
 * 🔄 Master Java & OOP
 * 🔄 Learn Data Structures
-* 🔄 Build Full Stack Proje
+* 🔄 Build Full Stack Projects
